@@ -1,0 +1,16 @@
+# US Banks
+# Chase
+HOST-SUFFIX,chase.com,🇺🇸 美国
+HOST-SUFFIX,chasecdn.com,🇺🇸 美国
+HOST-SUFFIX,chasecdn.com,🇺🇸 美国
+HOST-SUFFIX,zimperium.com,🇺🇸 美国
+HOST-KEYWORD,chase,🇺🇸 美国
+HOST-KEYWORD,zimperium,🇺🇸 美国
+
+# BofA
+HOST-SUFFIX,bankofamerica.com,🇺🇸 美国
+HOST-SUFFIX,bac-assets.com,🇺🇸 美国
+HOST-SUFFIX,cardlytics.com,🇺🇸 美国
+HOST-KEYWORD,bankofamerica,🇺🇸 美国
+HOST-KEYWORD,bac-assets,🇺🇸 美国
+HOST-KEYWORD,cardlytics,🇺🇸 美国
